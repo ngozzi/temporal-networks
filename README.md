@@ -5,11 +5,12 @@ Short introduction to temporal networks, the activity driven framework, and epid
 
 ---
 ## Repository Structure
-1. Notebook [01_activity_driven_networks.ipynb](https://github.com/ngozzi/temporal-networks/blob/main/code/01_activity_driven_networks.ipynb) contains code to:
+1. Notebook [01_activity_driven_networks.ipynb](https://github.com/ngozzi/temporal-networks/blob/main/code/01_activity_driven_networks.ipynb) contains the code to:
 - Sample activities from a fiven distribution
 - Generate temporal networks using the activity driven framework as generating method
 - Display the simulated temporal networks
 
+2. Notebook [02_epidemic_spreading_on_adn.ipynb](https://github.com/ngozzi/temporal-networks/blob/main/code/02_epidemic_spreading_on_adn.ipynb) contains the code to simulate a simple SIR model on activity driven networks with random partner selection as introduced in previous notebook.
 
 ## References
 - Holme, P., & Saramäki, J. (2012). Temporal networks. Physics reports, 519(3), 97-125.
