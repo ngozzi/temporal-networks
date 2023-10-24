@@ -9,3 +9,6 @@ Short introduction to temporal networks, the activity driven framework, and epid
 - Generate temporal networks using the activity driven framework as generating method
 - Display the simulated temporal networks
 
+
+### References
+
