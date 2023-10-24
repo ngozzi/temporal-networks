@@ -4,6 +4,7 @@ Short introduction to temporal networks, the activity driven framework, and epid
 ![alt text](./img.png)
 
 ---
+### Repository Structure
 1. Notebook [01_activity_driven_networks.ipynb](https://github.com/ngozzi/temporal-networks/blob/main/code/01_activity_driven_networks.ipynb) contains code to:
 - Sample activities from a fiven distribution
 - Generate temporal networks using the activity driven framework as generating method
