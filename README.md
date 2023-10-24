@@ -1,1 +1,1 @@
-# temporal-networks
+# Temporal Networks and the Activity Driven Framework
