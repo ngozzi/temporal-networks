@@ -3,7 +3,6 @@
 Short introduction to temporal networks, the activity driven framework, and epidemic processes on activity driven networks
 ![alt text](./img.png)
 
----
 ## Repository Structure
 1. Notebook [01_activity_driven_networks.ipynb](https://github.com/ngozzi/temporal-networks/blob/main/code/01_activity_driven_networks.ipynb) contains the code to:
 - Sample activities from a fiven distribution
