@@ -8,8 +8,10 @@ Short introduction to temporal networks, the activity driven framework, and epid
 - Sample activities from a fiven distribution
 - Generate temporal networks using the activity driven framework as generating method (both with random partner selections and community structure)
 - Display the simulated temporal networks
+Solution for this notebook can be find [here](https://github.com/ngozzi/temporal-networks/blob/main/code/01_activity_driven_networks_solution.ipynb)
 
 2. Notebook [02_epidemic_spreading_on_adn.ipynb](https://github.com/ngozzi/temporal-networks/blob/main/code/02_epidemic_spreading_on_adn.ipynb) contains the code to simulate a simple SIR model on activity driven networks with random partner selection as introduced in previous notebook.
+Solution for this notebook can be find [here](https://github.com/ngozzi/temporal-networks/blob/main/code/02_epidemic_spreading_on_adn_solution.ipynb)
 
 ## References
 - Holme, P., & Saramäki, J. (2012). Temporal networks. Physics reports, 519(3), 97-125.
